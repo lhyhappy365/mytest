@@ -1,3 +1,4 @@
 create master  
 add new word in master  
 add a line in dev  
+add merge in dev 
