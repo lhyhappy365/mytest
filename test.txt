@@ -5,3 +5,4 @@ feature1
 add new branch dev
 create mydev
 create testdev 
+create featurenew 
