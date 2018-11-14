@@ -1,2 +1,3 @@
-create master 
-add new word in master 
+create master  
+add new word in master  
+add new word in dev  
